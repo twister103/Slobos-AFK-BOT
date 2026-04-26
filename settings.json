@@ -8,7 +8,7 @@
   "server": {
     "ip": "smp1-2A38.aternos.me",
     "port": 15577,
-    "version": "1.21"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
